@@ -15,11 +15,3 @@ Simply include the script and attach your logic to button events.
 button.addEventListener("click", () => {
   // your role logic here
 });
-
-📌 Use Cases
-Discord bot interfaces
-Role management systems
-Interactive UI components
-🤝 Contributing
-
-Pull requests are welcome.
